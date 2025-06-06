@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn
+bs4
+requests
+transformers
+nltk
+keybert
+gtts
+scikit-learn
+beautifulsoup4
+textblob
+
